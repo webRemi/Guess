@@ -16,9 +16,9 @@ int main() {
         } else if (userNumber > 100 || userNumber < 1) {
             printf("You must choose a number between 1 and 100 include!\n");
         } else if (userNumber > randomNumber) {
-            printf("Trop grand\n");
+            printf("Too big\n");
         } else if (userNumber < randomNumber) {
-            printf("Trop Petit\n");
+            printf("Too small\n");
         }
     } 
 }
