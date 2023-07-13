@@ -1,1 +1,1 @@
-### Guessing Game in c
+### Guessing Game
